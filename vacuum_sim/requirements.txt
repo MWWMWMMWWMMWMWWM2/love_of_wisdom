@@ -1,0 +1,12 @@
+# Physics core (always needed)
+numpy>=1.24
+scipy>=1.10
+
+# Interactive 3D GUI (run.py).  PySide6 is ~100-150 MB; PyQt6 or PyQt5 work too (pyqtgraph auto-detects).
+PySide6>=6.5
+pyqtgraph>=0.13.3
+PyOpenGL>=3.1.6
+
+# Headless movie renderer (run_headless.py) -- optional
+matplotlib>=3.7
+pillow>=9.0
