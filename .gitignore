@@ -2,3 +2,6 @@
 !/AI solves QM/
 !/.gitignore
 !/LICENSE
+!/rng_live_viewer/
+.mypy_cache/
+__pycache__/
